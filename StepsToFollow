@@ -1,0 +1,20 @@
+Assignment-1
+1  git --version
+    2  mkdir folder1
+    3  ls
+    4  cd folder1
+    5  ls
+    6  pwd
+    7  touch code.txt log.txt output.txt
+    8  ls
+    9  git init
+   10  git add -a
+   11  git status
+   12  git config --list
+   13  git add code.txt
+   14  git add output.txt
+   15  git status
+   16  git commit -m "commit1"
+   17  git remote add origin https://github.com/NannapaneniPrasanth/git_assignments.git
+   18  git push origin master
+   19  history
